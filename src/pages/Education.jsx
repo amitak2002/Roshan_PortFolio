@@ -126,15 +126,7 @@ function Education() {
             <MdCloudDownload className='text-2xl'/>
           </div>
 
-          <div>
-            <a 
-              href={Resume}
-              target="_blank"
-              className='text-2xl'
-            >
-              View Resume
-            </a>
-          </div>
+          
         </div>
 
       </section>
