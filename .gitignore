@@ -1,0 +1,105 @@
+# Node Modules
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+pnpm-debug.log
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build Output
+dist/
+out/
+build/
+.cache/
+
+# Editor Configurations and Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# Log Files
+*.log
+logs/
+*.out
+*.pid
+*.seed
+*.tar.gz
+
+# OS System Files
+.DS_Store
+Thumbs.db
+
+# Dependency Lock Files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Testing
+coverage/
+jest/
+*.test.js
+*.spec.js
+
+# Temporary Files
+*.tmp
+*.bak
+*.old
+
+# Expo Specific Files
+.expo/
+.expo-shared/
+
+# React Native
+*.xcworkspace
+*.xcuserstate
+*.expo
+
+# Cache and IDE Specific Files
+.next/
+.nyc_output/
+out/
+.cache/
+.idea/
+*.iml
+
+# Firebase
+.firebaserc
+firebase-debug.log
+.firebase/
+
+# Sentry
+.sentryclirc
+
+# VS Code Settings
+.vscode/
+*.code-workspace
+
+# Git Folder
+.git/
+
+# Miscellaneous
+*.lock
+*.gz
+*.zip
+*.rar
+*.7z
+*.tar
+*.log
+*.tmp
+*.bak
+*.old
+
+# Ignore coverage reports
+coverage/
+lcov-report/
+
+# Ignore TypeScript build artifacts
+*.tsbuildinfo
